@@ -1,0 +1,204 @@
+{
+  "categories" : [
+    {
+      "name" : "Lunch / Dinner",
+      "items" : [
+        {
+          "name" : "My Meat Wagon",
+          "website" : "http://mymeatwagon.ie/",
+          "maps_link" : "https://goo.gl/maps/bnZW63rN1UH2",
+          "comments" : "Smoked meat"
+        },
+        {
+          "name" : "The Bull & Castle",
+          "website" : "http://www.fxbuckley.ie/the-bull-and-castle/",
+          "maps_link" : "https://goo.gl/maps/NHk6UuST9Fp",
+          "comments" : "Meat restaurant and bar"
+        },
+        {
+          "name" : "Rustic Stone",
+          "website" : "http://www.rusticstone.ie/",
+          "maps_link" : "https://goo.gl/maps/YYnwX61pcWG2"
+        },
+        {
+          "name" : "Taste at Rustic",
+          "website" : "http://www.tasteatrustic.com/",
+          "maps_link" : "https://goo.gl/maps/YYnwX61pcWG2",
+          "comments" : "Japanese restaurant on the top floor or Rustic Stone"
+        },
+        {
+          "name" : "Musashi",
+          "website" : "http://www.musashidublin.com/capel-street/",
+          "maps_link" : "https://goo.gl/maps/c9gvrVgfcg42",
+          "comments" : "Nice Asian food"
+        },
+        {
+          "name" : "The Butcher Grill",
+          "website" : "http://www.thebutchergrill.ie/",
+          "maps_link" : "https://goo.gl/maps/HsLLNkMkSAP2",
+          "comments" : "MEAT!"
+        },
+        {
+          "name" : "Fade Street Social",
+          "website" : "http://www.fadestreetsocial.com/",
+          "maps_link" : "https://goo.gl/maps/YYnwX61pcWG2"
+        },
+        {
+          "name" : "Dunne & Crescenzi",
+          "website" : "http://www.dunneandcrescenzi.com/restaurants/book-a-table.154.html",
+          "maps_link" : "https://goo.gl/maps/LDNmdS29fDN2",
+          "comments" : "Italian restaurant"
+        },
+        {
+          "name" : "Ananda",
+          "website" : "http://anandarestaurant.ie/",
+          "maps_link" : "https://goo.gl/maps/Wur9sM45bxo",
+          "comments" : "Indian restaurant, in Dundrum Town Centre mall"
+        },
+        {
+          "name" : "The Fumbally",
+          "website" : "http://thefumbally.ie/",
+          "maps_link" : "https://goo.gl/maps/AVwXra5nT7w",
+          "comments" : "Very good lunch / brunch"
+        },
+        {
+          "name" : "Koh",
+          "website" : "http://www.koh.ie/",
+          "maps_link" : "https://goo.gl/maps/tC4YoeZ7tpE2",
+          "comments" : "Asian restaurant"
+        }
+      ]
+    },
+    {
+      "name" : "Brunch / Coffee",
+      "items" : [
+        {
+          "name" : "Proper Order",
+          "website" : "http://www.properordercoffeeco.com/",
+          "maps_link" : "https://goo.gl/maps/45NNY3rVaTr",
+          "comments" : "GREAT coffee"
+        },
+        {
+          "name" : "3fe",
+          "website" : "https://www.3fe.com/",
+          "maps_link" : "https://goo.gl/maps/wnkhFB23tfB2",
+          "comments" : "Good coffee"
+        },
+        {
+          "name" : "Brother Hubbard",
+          "website" : "https://brotherhubbard.ie/",
+          "maps_link" : "https://goo.gl/maps/vfcZjgkabnm",
+          "comments" : "There are two branches, North and South"
+        },
+        {
+          "name" : "Wuff",
+          "website" : "http://www.wuff.ie/",
+          "maps_link" : "https://goo.gl/maps/BugGauHFEQM2"
+        },
+        {
+          "name" : "Green Bench Cafe",
+          "website" : "http://greenbenchcafe.com/",
+          "maps_link" : "https://goo.gl/maps/d5SVW6TJ6wF2"
+        },
+        {
+          "name" : "Dillinger's",
+          "website" : "http://www.dillingers.ie/",
+          "maps_link" : "https://goo.gl/maps/bSDh3EuNJjr",
+          "comments" : "American influenced food"
+        },
+        {
+          "name" : "Grove Road",
+          "website" : "http://www.groveroadcafe.ie/",
+          "maps_link" : "https://goo.gl/maps/TVNMCQsXNE12",
+          "comments" : "Good coffee"
+        },
+        {
+          "name" : "Bear",
+          "website" : "http://www.joburger.ie/bear",
+          "maps_link" : "https://goo.gl/maps/NmeZE9Sv9kn",
+          "comments" : "The pancakes are recommended"
+        },
+        {
+          "name" : "San Lorenzo's",
+          "website" : "http://www.sanlorenzos.ie/",
+          "maps_link" : "https://goo.gl/maps/j7EMSTdYuku",
+          "comments" : "Also lunch / dinner, but brunch is what they're really good at"
+        },
+        {
+          "name" : "Coffeeangel HQ",
+          "website" : "https://coffeeangel.com/",
+          "maps_link" : "https://goo.gl/maps/VPgqyZ4pscK2",
+          "comments" : "Coffee only"
+        }
+      ]
+    },
+    {
+      "name" : "Dessert / Sweets",
+      "items" : [
+        {
+          "name" : "Dolce Sicily",
+          "website" : "http://dolcesicily.ie/",
+          "maps_link" : "https://goo.gl/maps/j9Zs2rfMffL2",
+          "comments" : "Good sandwiches, AWESOME desserts, great Cannoli"
+        },
+        {
+          "name" : "Ladurée",
+          "website" : "https://www.laduree.fr/en/laduree-dublin.html",
+          "maps_link" : "https://goo.gl/maps/TVNMCQsXNE1://goo.gl/maps/t6WZT9D8M9m",
+          "comments" : "Macarons are good, coffee is bad"
+        }
+      ]
+    },
+    {
+      "name" : "Misc",
+      "items" : [
+        {
+          "name" : "Fallon & Byrne",
+          "website" : "http://www.fallonandbyrne.com/",
+          "maps_link" : "https://goo.gl/maps/Rv79A4QvoZr",
+          "comments" : "Awesome supermarket, also a cafe, wine cellar and restaurant"
+        }
+      ]
+    },
+    {
+      "name" : "Fast-ish",
+      "items" : [
+        {
+          "name" : "Bunsen Burgers",
+          "website" : "http://www.bunsen.ie/",
+          "maps_link" : "https://goo.gl/maps/KMLrmKbmvzQ2",
+          "comments" : "The de-facto burger in Dublin, there are few branches around the city"
+        },
+        {
+          "name" : "Boojum",
+          "website" : "http://www.boojummex.com/",
+          "maps_link" : "https://goo.gl/maps/BUFiAmsa3U72",
+          "comments" : "Probably the best burrito in Dublin, there are few branches around the city"
+        }
+      ]
+    },
+    {
+      "name" : "Bars",
+      "items" : [
+        {
+          "name" : "The Stag's Head",
+          "website" : "http://www.louisfitzgerald.com/stagshead",
+          "maps_link" : "https://goo.gl/maps/Tnv8nV5trqG2",
+          "comments" : "Some say the best pint of Guinness in the city is served in this place"
+        },
+        {
+          "name" : "O'Neills Pub & Kitchen",
+          "website" : "http://www.oneillspubdublin.com/",
+          "maps_link" : "https://goo.gl/maps/EYtpgLTaLNR2",
+          "comments" : "Lots of beers on tap"
+        },
+        {
+          "name" : "",
+          "website" : "",
+          "maps_link" : "",
+          "comments" : ""
+        }
+      ]
+    }
+  ]
+}
