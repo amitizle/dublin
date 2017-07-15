@@ -4,6 +4,30 @@
       "name" : "Lunch / Dinner",
       "items" : [
         {
+          "name" : "Klaw",
+          "website" : "http://klaw.ie/",
+          "maps_link" : "https://goo.gl/maps/74CCqSKLTiQ2",
+          "comments" : "Seafood"
+        },
+        {
+          "name" : "Kokoro Bento - Ramen Bar",
+          "website" : "http://www.kokorosushibento.com/",
+          "maps_link" : "https://goo.gl/maps/u9MLrbhzo3F2",
+          "comments" : "Good Ramen"
+        },
+        {
+          "name" : "The Exchequer",
+          "website" : "http://www.theexchequer.ie/",
+          "maps_link" : "https://goo.gl/maps/pPsgYMcmE592",
+          "comments" : "Sunday Roast is recommended, prebooking is required"
+        },
+        {
+          "name" : "Kinara Kitchen",
+          "website" : "http://www.kinarakitchen.ie/",
+          "maps_link" : "https://goo.gl/maps/zVPHbJVVbKE2",
+          "comments" : "Pakistani restaurant"
+        },
+        {
           "name" : "My Meat Wagon",
           "website" : "http://mymeatwagon.ie/",
           "maps_link" : "https://goo.gl/maps/bnZW63rN1UH2",
@@ -146,6 +170,12 @@
           "website" : "https://www.laduree.fr/en/laduree-dublin.html",
           "maps_link" : "https://goo.gl/maps/TVNMCQsXNE1://goo.gl/maps/t6WZT9D8M9m",
           "comments" : "Macarons are good, coffee is bad"
+        },
+        {
+          "name" : "Murphy's Ice Cream",
+          "website" : "http://www.murphysicecream.ie/",
+          "maps_link" : "https://goo.gl/maps/GwGMF8MoAu22",
+          "comments" : "Ice Cream"
         }
       ]
     },

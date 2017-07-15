@@ -4,6 +4,10 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Klaw](http://klaw.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/74CCqSKLTiQ2)| Seafood |
+| [Kokoro Bento - Ramen Bar](http://www.kokorosushibento.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/u9MLrbhzo3F2)| Good Ramen |
+| [The Exchequer](http://www.theexchequer.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/pPsgYMcmE592)| Sunday Roast is recommended, prebooking is required |
+| [Kinara Kitchen](http://www.kinarakitchen.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/zVPHbJVVbKE2)| Pakistani restaurant |
 | [My Meat Wagon](http://mymeatwagon.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/bnZW63rN1UH2)| Smoked meat |
 | [The Bull & Castle](http://www.fxbuckley.ie/the-bull-and-castle/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/NHk6UuST9Fp)| Meat restaurant and bar |
 | [Rustic Stone](http://www.rusticstone.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/YYnwX61pcWG2)| N/A |
@@ -39,6 +43,7 @@
 | ---- | --- | -------- |
 | [Dolce Sicily](http://dolcesicily.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/j9Zs2rfMffL2)| Good sandwiches, AWESOME desserts, great Cannoli |
 | [Ladurée](https://www.laduree.fr/en/laduree-dublin.html) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/TVNMCQsXNE1://goo.gl/maps/t6WZT9D8M9m)| Macarons are good, coffee is bad |
+| [Murphy's Ice Cream](http://www.murphysicecream.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/GwGMF8MoAu22)| Ice Cream |
 
 
 ## Misc
