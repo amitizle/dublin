@@ -41,6 +41,7 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Camerino](http://www.camerino.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/QCVsWVAJZY62)| Good coffee, nice cakes, amazing sandwiches |
 | [Dolce Sicily](http://dolcesicily.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/j9Zs2rfMffL2)| Good sandwiches, AWESOME desserts, great Cannoli |
 | [Ladurée](https://www.laduree.fr/en/laduree-dublin.html) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/TVNMCQsXNE1://goo.gl/maps/t6WZT9D8M9m)| Macarons are good, coffee is bad |
 | [Murphy's Ice Cream](http://www.murphysicecream.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/GwGMF8MoAu22)| Ice Cream |
@@ -67,6 +68,5 @@
 | ---- | --- | -------- |
 | [The Stag's Head](http://www.louisfitzgerald.com/stagshead) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/Tnv8nV5trqG2)| Some say the best pint of Guinness in the city is served in this place |
 | [O'Neills Pub & Kitchen](http://www.oneillspubdublin.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/EYtpgLTaLNR2)| Lots of beers on tap |
-| []() | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">]()|  |
 
 

@@ -160,6 +160,12 @@
       "name" : "Dessert / Sweets",
       "items" : [
         {
+          "name" : "Camerino",
+          "website" : "http://www.camerino.ie/",
+          "maps_link" : "https://goo.gl/maps/QCVsWVAJZY62",
+          "comments" : "Good coffee, nice cakes, amazing sandwiches"
+        },
+        {
           "name" : "Dolce Sicily",
           "website" : "http://dolcesicily.ie/",
           "maps_link" : "https://goo.gl/maps/j9Zs2rfMffL2",
@@ -221,12 +227,6 @@
           "website" : "http://www.oneillspubdublin.com/",
           "maps_link" : "https://goo.gl/maps/EYtpgLTaLNR2",
           "comments" : "Lots of beers on tap"
-        },
-        {
-          "name" : "",
-          "website" : "",
-          "maps_link" : "",
-          "comments" : ""
         }
       ]
     }
