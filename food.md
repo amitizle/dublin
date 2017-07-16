@@ -4,6 +4,7 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Hailan Korean Restaurant](https://www.facebook.com/HailanKorean/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/Qg7MFNMK9C42)| Korean |
 | [Klaw](http://klaw.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/74CCqSKLTiQ2)| Seafood |
 | [Kokoro Bento - Ramen Bar](http://www.kokorosushibento.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/u9MLrbhzo3F2)| Good Ramen |
 | [The Exchequer](http://www.theexchequer.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/pPsgYMcmE592)| Sunday Roast is recommended, prebooking is required |
