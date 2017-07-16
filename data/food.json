@@ -4,6 +4,12 @@
       "name" : "Lunch / Dinner",
       "items" : [
         {
+          "name" : "Hailan Korean Restaurant",
+          "website" : "https://www.facebook.com/HailanKorean/",
+          "maps_link" : "https://goo.gl/maps/Qg7MFNMK9C42",
+          "comments" : "Korean"
+        },
+        {
           "name" : "Klaw",
           "website" : "http://klaw.ie/",
           "maps_link" : "https://goo.gl/maps/74CCqSKLTiQ2",
