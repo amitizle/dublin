@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 for data_source in $(ls data/*.json); do
   output_data=$(basename ${data_source%.*})
   output_file="$output_data.md"

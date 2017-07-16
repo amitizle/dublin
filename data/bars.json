@@ -1,0 +1,33 @@
+{
+  "categories" : [
+    {
+      "name" : "Bars",
+      "items" : [
+        {
+          "name" : "The Stag's Head",
+          "website" : "http://www.louisfitzgerald.com/stagshead",
+          "maps_link" : "https://goo.gl/maps/Tnv8nV5trqG2",
+          "comments" : "Some say the best pint of Guinness in the city is served in this place"
+        },
+        {
+          "name" : "O'Neills Pub & Kitchen",
+          "website" : "http://www.oneillspubdublin.com/",
+          "maps_link" : "https://goo.gl/maps/EYtpgLTaLNR2",
+          "comments" : "Lots of beers on tap"
+        },
+        {
+          "name" : "Blackbird",
+          "website" : "https://www.facebook.com/BlackbirdRathmines/",
+          "maps_link" : "https://goo.gl/maps/Ya9ziTxMZfS2",
+          "comments" : "Board games, sport events on TV, lots of beers on the tap, rotating beers"
+        },
+        {
+          "name" : "The Hill Pub",
+          "website" : "https://www.facebook.com/TheHillPub/",
+          "maps_link" : "https://goo.gl/maps/5utw4A5mNRG2",
+          "comments" : "Nice pub food"
+        }
+      ]
+    }
+  ]
+}

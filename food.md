@@ -4,6 +4,7 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [777](http://www.777.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/fKtiG2Nkhps)| Mexican, dishes to share with the table, every dish is €7.77 |
 | [Hailan Korean Restaurant](https://www.facebook.com/HailanKorean/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/Qg7MFNMK9C42)| Korean |
 | [Klaw](http://klaw.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/74CCqSKLTiQ2)| Seafood |
 | [Kokoro Bento - Ramen Bar](http://www.kokorosushibento.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/u9MLrbhzo3F2)| Good Ramen |
@@ -26,6 +27,7 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Whitefriar Grill](http://www.whitefriargrill.ie/restaurant-dublin-brunch/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/QjmorrtcHty)| Meat brunch |
 | [Proper Order](http://www.properordercoffeeco.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/45NNY3rVaTr)| GREAT coffee |
 | [3fe](https://www.3fe.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/wnkhFB23tfB2)| Good coffee |
 | [Brother Hubbard](https://brotherhubbard.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/vfcZjgkabnm)| There are two branches, North and South |
@@ -42,6 +44,8 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Queen Of Tarts](http://www.queenoftarts.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/2LgVwQrL9cn)| Tea & cake |
+| [Cocoa Atelier](https://www.facebook.com/cocoaatelier/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/msT9enFv57z)| Good macarons, nice chocolate |
 | [Camerino](http://www.camerino.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/QCVsWVAJZY62)| Good coffee, nice cakes, amazing sandwiches |
 | [Dolce Sicily](http://dolcesicily.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/j9Zs2rfMffL2)| Good sandwiches, AWESOME desserts, great Cannoli |
 | [Ladurée](https://www.laduree.fr/en/laduree-dublin.html) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/TVNMCQsXNE1://goo.gl/maps/t6WZT9D8M9m)| Macarons are good, coffee is bad |
@@ -52,6 +56,7 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Celtic Whiskey Shop & Wines](http://www.celticwhiskeyshop.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/crZii26ZdgJ2)| Good collection of Whiskey and Beer |
 | [Fallon & Byrne](http://www.fallonandbyrne.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/Rv79A4QvoZr)| Awesome supermarket, also a cafe, wine cellar and restaurant |
 
 
@@ -59,15 +64,16 @@
 
 | Name | Map | comments |
 | ---- | --- | -------- |
+| [Cafe Azteca](http://www.azteca.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/oetLTFy8P8o)| Mexican |
 | [Bunsen Burgers](http://www.bunsen.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/KMLrmKbmvzQ2)| The de-facto burger in Dublin, there are few branches around the city |
 | [Boojum](http://www.boojummex.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/BUFiAmsa3U72)| Probably the best burrito in Dublin, there are few branches around the city |
 
 
-## Bars
+## Pizza
 
 | Name | Map | comments |
 | ---- | --- | -------- |
-| [The Stag's Head](http://www.louisfitzgerald.com/stagshead) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/Tnv8nV5trqG2)| Some say the best pint of Guinness in the city is served in this place |
-| [O'Neills Pub & Kitchen](http://www.oneillspubdublin.com/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/EYtpgLTaLNR2)| Lots of beers on tap |
+| [Dublin Pizza Company](http://www.dublinpizzacompany.ie) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/zjkj1tFY3p82)| Only to go, no tables |
+| [Tiger Wood Fire Pizza & Bake](http://www.tigerwfp.ie/) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](https://goo.gl/maps/2TK9rxRuEts)| N/A |
 
 

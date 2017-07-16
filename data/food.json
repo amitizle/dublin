@@ -4,6 +4,12 @@
       "name" : "Lunch / Dinner",
       "items" : [
         {
+          "name" : "777",
+          "website" : "http://www.777.ie/",
+          "maps_link" : "https://goo.gl/maps/fKtiG2Nkhps",
+          "comments" : "Mexican, dishes to share with the table, every dish is €7.77"
+        },
+        {
           "name" : "Hailan Korean Restaurant",
           "website" : "https://www.facebook.com/HailanKorean/",
           "maps_link" : "https://goo.gl/maps/Qg7MFNMK9C42",
@@ -103,6 +109,12 @@
       "name" : "Brunch / Coffee",
       "items" : [
         {
+          "name" : "Whitefriar Grill",
+          "website" : "http://www.whitefriargrill.ie/restaurant-dublin-brunch/",
+          "maps_link" : "https://goo.gl/maps/QjmorrtcHty",
+          "comments" : "Meat brunch"
+        },
+        {
           "name" : "Proper Order",
           "website" : "http://www.properordercoffeeco.com/",
           "maps_link" : "https://goo.gl/maps/45NNY3rVaTr",
@@ -166,6 +178,18 @@
       "name" : "Dessert / Sweets",
       "items" : [
         {
+          "name" : "Queen Of Tarts",
+          "website" : "http://www.queenoftarts.ie/",
+          "maps_link" : "https://goo.gl/maps/2LgVwQrL9cn",
+          "comments" : "Tea & cake"
+        },
+        {
+          "name" : "Cocoa Atelier",
+          "website" : "https://www.facebook.com/cocoaatelier/",
+          "maps_link" : "https://goo.gl/maps/msT9enFv57z",
+          "comments" : "Good macarons, nice chocolate"
+        },
+        {
           "name" : "Camerino",
           "website" : "http://www.camerino.ie/",
           "maps_link" : "https://goo.gl/maps/QCVsWVAJZY62",
@@ -195,6 +219,12 @@
       "name" : "Misc",
       "items" : [
         {
+          "name" : "Celtic Whiskey Shop & Wines",
+          "website" : "http://www.celticwhiskeyshop.com/",
+          "maps_link" : "https://goo.gl/maps/crZii26ZdgJ2",
+          "comments" : "Good collection of Whiskey and Beer"
+        },
+        {
           "name" : "Fallon & Byrne",
           "website" : "http://www.fallonandbyrne.com/",
           "maps_link" : "https://goo.gl/maps/Rv79A4QvoZr",
@@ -205,6 +235,12 @@
     {
       "name" : "Fast-ish",
       "items" : [
+        {
+          "name" : "Cafe Azteca",
+          "website" : "http://www.azteca.ie/",
+          "maps_link" : "https://goo.gl/maps/oetLTFy8P8o",
+          "comments" : "Mexican"
+        },
         {
           "name" : "Bunsen Burgers",
           "website" : "http://www.bunsen.ie/",
@@ -220,19 +256,18 @@
       ]
     },
     {
-      "name" : "Bars",
+      "name" : "Pizza",
       "items" : [
         {
-          "name" : "The Stag's Head",
-          "website" : "http://www.louisfitzgerald.com/stagshead",
-          "maps_link" : "https://goo.gl/maps/Tnv8nV5trqG2",
-          "comments" : "Some say the best pint of Guinness in the city is served in this place"
+          "name" : "Dublin Pizza Company",
+          "website" : "http://www.dublinpizzacompany.ie",
+          "maps_link" : "https://goo.gl/maps/zjkj1tFY3p82",
+          "comments" : "Only to go, no tables"
         },
         {
-          "name" : "O'Neills Pub & Kitchen",
-          "website" : "http://www.oneillspubdublin.com/",
-          "maps_link" : "https://goo.gl/maps/EYtpgLTaLNR2",
-          "comments" : "Lots of beers on tap"
+          "name" : "Tiger Wood Fire Pizza & Bake",
+          "website" : "http://www.tigerwfp.ie/",
+          "maps_link" : "https://goo.gl/maps/2TK9rxRuEts"
         }
       ]
     }
