@@ -219,6 +219,12 @@
       "name" : "Misc",
       "items" : [
         {
+          "name" : "Eatyard",
+          "website" : "https://the-eatyard.com/",
+          "maps_link" : "https://goo.gl/maps/Yi239ZDZTJU2",
+          "comments" : "An open space food market, rotating vendors"
+        },
+        {
           "name" : "Celtic Whiskey Shop & Wines",
           "website" : "http://www.celticwhiskeyshop.com/",
           "maps_link" : "https://goo.gl/maps/crZii26ZdgJ2",
