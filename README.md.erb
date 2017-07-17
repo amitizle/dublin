@@ -1,0 +1,8 @@
+# Dublin
+
+Things to do in Dublin, inspired by [bhouse's](https://github.com/bhouse) [sf](https://github.com/bhouse/sf) repo.
+
+<% Dir.glob('data/*.json').each do |data_file| -%>
+  <% base_filename = File.basename(data_file).split('.').first -%>
+* [<%= base_filename %>](<%= base_filename %>)
+<% end %>

@@ -1,0 +1,10 @@
+# <%= title %>
+<% categories.each do |category| %>
+## <%= category['name'] %>
+
+| Name | Map | comments |
+| ---- | --- | -------- |
+<% category['items'].each do |item| -%>
+| [<%= item['name'] %>](<%= item['website'] %>) | [<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Google_Maps_Icon.png" width="40" height="40">](<%= item['maps_link'] %>)| <%= item['comments'] || 'N/A' %> |
+<% end %>
+<% end %>
