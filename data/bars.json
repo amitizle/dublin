@@ -26,6 +26,48 @@
           "website" : "https://www.facebook.com/TheHillPub/",
           "maps_link" : "https://goo.gl/maps/5utw4A5mNRG2",
           "comments" : "Nice pub food"
+        },
+        {
+          "name" : "Porterhouse Central",
+          "website" : "http://www.theporterhouse.ie/bars-dublin-central.php",
+          "maps_link" : "https://goo.gl/maps/sjhy1DhWJUN2",
+          "comments" : "Craft Irish Beers, there's also a whiskey bar in there"
+        },
+        {
+          "name" : "The Beer Market",
+          "website" : "http://www.galwaybaybrewery.com/beermarket/",
+          "maps_link" : "https://goo.gl/maps/5xYCKqmCTou",
+          "comments" : "Galway Bay (Irish brewery) bar, Bay Ale is a good ale"
+        },
+        {
+          "name" : "Against the Grain",
+          "website" : "http://www.galwaybaybrewery.com/againstthegrain/",
+          "maps_link" : "https://goo.gl/maps/B8E6vMjgEG82",
+          "comments" : "Galway Bay (Irish brewery) bar, Bay Ale is a good ale"
+        },
+        {
+          "name" : "The Black Sheep",
+          "website" : "http://www.galwaybaybrewery.com/blacksheep/",
+          "maps_link" : "https://goo.gl/maps/DaArUiAWMo62",
+          "comments" : "Galway Bay (Irish brewery) bar, Bay Ale is a good ale"
+        },
+        {
+          "name" : "The Brazen Head",
+          "website" : "http://www.brazenhead.com/",
+          "maps_link" : "https://goo.gl/maps/rqnNuAKPet32",
+          "comments" : "Ireland's oldest pub, nice food"
+        },
+        {
+          "name" : "The Cobblestone",
+          "website" : "http://cobblestonepub.ie/",
+          "maps_link" : "https://goo.gl/maps/1PgJb2ZaveL2",
+          "comments" : "Small pub, traditional Irish music"
+        },
+        {
+          "name" : "The Bleeding Horse",
+          "website" : "https://bleedinghorse.ie/",
+          "maps_link" : "https://goo.gl/maps/uSvB5nopBiL2",
+          "comments" : "Good selection of beers on tap"
         }
       ]
     }

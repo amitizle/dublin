@@ -4,6 +4,30 @@
       "name" : "Lunch / Dinner",
       "items" : [
         {
+          "name" : "Hophouse Kimchi",
+          "website" : "http://www.hophouse.ie/",
+          "maps_link" : "https://goo.gl/maps/qtkMAspzM4n",
+          "comments" : "Korean restaurant, great food"
+        },
+        {
+          "name" : "Wishbone",
+          "website" : "https://www.wishbone-dublin.com/",
+          "maps_link" : "https://goo.gl/maps/pERvwhk1jPN2",
+          "comments" : "Chicken wings"
+        },
+        {
+          "name" : "Las Tapas De Lola",
+          "website" : "http://lastapasdelola.com/",
+          "maps_link" : "https://goo.gl/maps/fHb39xXJPrQ2",
+          "comments" : "Spanish tapas, good Sangria"
+        },
+        {
+          "name" : "Montys Of Kathmandu",
+          "website" : "http://www.montys.ie/",
+          "maps_link" : "https://goo.gl/maps/41Fz6Pa8euP2",
+          "comments" : "Nepalese Restaurant"
+        },
+        {
           "name" : "777",
           "website" : "http://www.777.ie/",
           "maps_link" : "https://goo.gl/maps/fKtiG2Nkhps",
@@ -109,6 +133,12 @@
       "name" : "Brunch / Coffee",
       "items" : [
         {
+          "name" : "First Draft Coffee",
+          "website" : "http://www.firstdraftcoffee.com/",
+          "maps_link" : "https://goo.gl/maps/Ybdn1Bj6GSJ2",
+          "comments" : "Good coffee (Roasted Brown), CLOSED on Sunday, opens late during the week (10:00)"
+        },
+        {
           "name" : "Whitefriar Grill",
           "website" : "http://www.whitefriargrill.ie/restaurant-dublin-brunch/",
           "maps_link" : "https://goo.gl/maps/QjmorrtcHty",
@@ -178,6 +208,18 @@
       "name" : "Dessert / Sweets",
       "items" : [
         {
+          "name" : "Aungier Danger",
+          "website" : "https://www.aungierdanger.ie/",
+          "maps_link" : "https://goo.gl/maps/XtCe5QyaHgt",
+          "comments" : "Donuts"
+        },
+        {
+          "name" : "Offbeat Donut Co.",
+          "website" : "https://www.offbeatdonuts.com/",
+          "maps_link" : "https://goo.gl/maps/49AnzDjKG9y",
+          "comments" : "Donuts"
+        },
+        {
           "name" : "Queen Of Tarts",
           "website" : "http://www.queenoftarts.ie/",
           "maps_link" : "https://goo.gl/maps/2LgVwQrL9cn",
@@ -208,6 +250,12 @@
           "comments" : "Macarons are good, coffee is bad"
         },
         {
+          "name" : "Gino's Gelato",
+          "website" : "http://www.ginosgelato.com/our-locations/georges-st/",
+          "maps_link" : "https://goo.gl/maps/osoPuNQ8oT12",
+          "comments" : "Ice cream & milkshakes, there are few branches in Dublin"
+        },
+        {
           "name" : "Murphy's Ice Cream",
           "website" : "http://www.murphysicecream.ie/",
           "maps_link" : "https://goo.gl/maps/GwGMF8MoAu22",
@@ -235,12 +283,30 @@
           "website" : "http://www.fallonandbyrne.com/",
           "maps_link" : "https://goo.gl/maps/Rv79A4QvoZr",
           "comments" : "Awesome supermarket, also a cafe, wine cellar and restaurant"
+        },
+        {
+          "name" : "The Hopsack",
+          "website" : "https://www.thehopsack.ie/",
+          "maps_link" : "https://goo.gl/maps/4C3yPr9FAfM2",
+          "comments" : "supermarket with 'healthy' things, organic chocolate, granola etc"
         }
       ]
     },
     {
       "name" : "Fast-ish",
       "items" : [
+        {
+          "name" : "Doughboys",
+          "website" : "http://www.doughboys.ie/",
+          "maps_link" : "https://goo.gl/maps/78Z1Y1hXg5m",
+          "comments" : "Awesome sandwiches"
+        },
+        {
+          "name" : "Umi Falafel",
+          "website" : "http://umifalafel.ie/",
+          "maps_link" : "https://goo.gl/maps/r1zwEJwsbk22",
+          "comments" : "Falafel, vine leaves, lentil soup"
+        },
         {
           "name" : "Cafe Azteca",
           "website" : "http://www.azteca.ie/",
